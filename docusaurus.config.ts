@@ -69,10 +69,6 @@ const config: Config = {
                 {
                     type: "localeDropdown",
                     position: "right",
-                },
-                {
-                    type: "separator",
-                    position: "right",
                 }
                 // {to: '/blog', label: 'Blog', position: 'left'},
             ],

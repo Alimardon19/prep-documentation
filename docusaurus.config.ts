@@ -66,10 +66,10 @@ const config: Config = {
         navbar: {
             title: 'Prep.uz',
             items: [
-                {
-                    type: "localeDropdown",
-                    position: "right",
-                }
+                // {
+                //     type: "localeDropdown",
+                //     position: "right",
+                // }
                 // {to: '/blog', label: 'Blog', position: 'left'},
             ],
         },
